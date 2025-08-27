@@ -1,14 +1,12 @@
-# **Nombre de la Universidad**  
-## Facultad de XXXXX  
-### Carrera de XXXXX  
-#### Ciclo: X  
+# **Universidad Peruana De Ciencias Aplicadas**  
+## Facultad de Ingenieria  
+### Carrera de Ingenieria de Software   
+#### Ciclo: 2025-02
 
 ---
 
-### Código del Curso: XXXX  
-### Nombre del Curso: XXXXX  
-### NRC: XXXXX  
-### Profesor: XXXXX  
+### 7385 | Desarrollo de Aplicaciones Open Source 
+### Profesor: Juan Antonio Flores Moroco
 
 ---
 
@@ -19,13 +17,12 @@
 
 ---
 
-## Integrantes  
-- 2023XXXXX — Apellido1 Apellido2, Nombre1  
-- 2023XXXXX — Apellido1 Apellido2, Nombre2  
-- 2023XXXXX — Apellido1 Apellido2, Nombre3  
-- 2023XXXXX — Apellido1 Apellido2, Nombre4  
-- 2023XXXXX — Apellido1 Apellido2, Nombre5  
+## Integrantes:
+- Apellidos, Nombre  (Codigo)
+- Apellidos, Nombre  (Codigo)
+- Apellidos, Nombre  (Codigo)
+- Apellidos, Nombre  (Codigo)
+- Apellidos, Nombre  (Codigo)
 
 ---
 
-### Mes y Año
