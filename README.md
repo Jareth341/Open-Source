@@ -1,8 +1,7 @@
 # Desarrollo de Aplicaciones Open Source
-Trabajo
-Integrantes:
--NOmbre1
--NOmbre2
--NOmbre3
--NOmbre4
--NOmbre5
+**Integrantes:**  
+- Nombre1  
+- Nombre2  
+- Nombre3  
+- Nombre4  
+- Nombre5  
