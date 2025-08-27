@@ -1,5 +1,5 @@
 # Desarrollo de Aplicaciones Open Source
-**Integrantes:**  
+Integrantes:
 - Nombre1  
 - Nombre2  
 - Nombre3  
